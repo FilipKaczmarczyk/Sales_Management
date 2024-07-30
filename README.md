@@ -8,7 +8,7 @@ The goal of this project was to develop a comprehensive sales report designed to
 By achieving these objectives, the sales report will provide valuable insights and support strategic decision-making. 💼🚀
 
 SQL queries: [queries](/sql_queries/)<br />
-PowerBI dashoboard: [dashboard](https://app.powerbi.com/groups/me/reports/19bdd338-036c-4fc8-9f96-d4c308cfbdd3/dae6ba23038570bb6835?experience=power-bi)
+PowerBI dashoboard: [dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWM4MTEyYTItZmUzNy00OTk0LWJhZTYtNjNkMjgzZDkzMjNlIiwidCI6ImE5Y2I2NDkzLTA3ZDMtNGQ3Yy1hODQ0LWE3YjU4NGE5MDAwNCJ9)
 
 # Data I Used
 
